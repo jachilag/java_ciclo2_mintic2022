@@ -1,0 +1,2 @@
+# java_ciclo2_mintic2022
+Este repositorio contiene las actividades, ejercicios y solucion de retos propuestos en el diplomado de "desarrollo de software" impartido por la universidad Nacional de  Colombia en alianza con el MINTIC. para este ciclo se estudio el paradigma de programacion a objetos con java, bases de datos con MySQL , manejo de versionamiento con GITHUB e introduccion a las metodologias agiles con SCRUM. 
