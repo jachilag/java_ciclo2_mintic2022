@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reto2Formulario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reto2Formulario_jar</output-path>
+    <root id="archive" name="Reto2Formulario.jar">
+      <element id="module-output" name="Reto2Formulario" />
+    </root>
+  </artifact>
+</component>
